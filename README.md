@@ -8,10 +8,10 @@ How to install it ?
 
 It's simple !, just do the following steps :
 
--- Download as zip the repository.
--- Install the .exe
--- Check the button install to stable
--- Wait installation
+- Download as zip the repository.
+- Install the .exe
+- Check the button install to stable
+- Wait installation
 
 Better Discord was just installed congratulations !
 
