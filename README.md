@@ -6,7 +6,8 @@ Visual enhancements for the discord server Averuv
 
 How to install it ?
 
-It's simple !, just do the following steps :
+It's simple !
+Just do the following steps :
 
 - Download as zip the repository.
 - Install the .exe
