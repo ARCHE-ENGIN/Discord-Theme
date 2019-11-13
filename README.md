@@ -1,6 +1,6 @@
 # Discord-Theme
 
-![alt text](https://i.ibb.co/jZ0142M/Wallpaper.jpg)
+![alt text](https://i.ibb.co/z8GsgkW/Visual-Aspect.png)
 
 Visual enhancements for the discord server Averuv
 
