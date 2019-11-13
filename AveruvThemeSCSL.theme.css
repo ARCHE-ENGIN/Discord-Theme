@@ -1,0 +1,37 @@
+//META{"name":"Averuv Server Theme","description":"Theme for the Averuv Server","author":"Z3R0xLEGEND#9409","version":"1.0"}*//{}
+
+@import url(https://cdn.discordthemes.net/file/notanotheranimetheme/scsl.css); /* Default css file */
+
+:root {
+ 
+    --background-image: url(https://i.ibb.co/jZ0142M/Wallpaper.jpg); /* Background image displayed on discord */
+
+    --friends-icon: url(https://i.ibb.co/54B5X5f/Friends.jpg); /* Home icon */
+
+    --friends-icon-position: center center; /* Position of the image in the place of the home icon */
+
+    --friends-icon-zoom: 100%; /* Zoom of the home icon */
+
+    --main-color: rgb(67, 181, 129); /* Main theme color for discord */
+
+    --main-transparency: rgba(0, 0, 0, 0.1); /* Default color of discord */
+
+    --unread-server-animation: rainbow; /* Animation for unreaded messages */
+
+    --hover-list-bg-color: rgba(0, 0, 0, 0.15); /* List hovered by mouse */
+
+    --border-lines-color: hsla(100,100%,100%,0.2); /* Lines color in discord */
+
+    --scroll-bar-color: rgba(255,255,255, 0.7); /* Scroll bar color */
+
+    --font-size: 18px; /* Chat messages size */
+
+    --selected-text-voice-color: rgba(255, 255, 255, 0.75); /* Font of a channel selected by*/
+
+    --channel-hover-text-color: rgba(255, 255, 255, 0.75); /* Color of a channel hovered by mouse */
+
+    --unread-text-color: #dcddde; /* Unreaded text /*
+
+                                /*R  G  B  ALPHA*/
+    --user-popup-background: rgba(131, 166, 155, 1); /* Pop up on clicking a member */
+}
