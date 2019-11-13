@@ -1,8 +1,8 @@
 # Discord-Theme
 
-🔰 ![alt text](https://i.ibb.co/z8GsgkW/Visual-Aspect.png)
+![alt text](https://i.ibb.co/z8GsgkW/Visual-Aspect.png)
 
-Visual enhancements for the discord server Averuv
+🔰 Visual enhancements for the discord server Averuv 🔰 
 
 How to install it ?
 
